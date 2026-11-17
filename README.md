@@ -83,19 +83,23 @@ python gerar_planilhas_sinteticas.py
 ## 🖼️ Dashboard
 
 ### Visão geral
-<img width="379" height="398" alt="Controle de OP&#39;s" src="https://github.com/user-attachments/assets/965c3169-c16f-4fbd-82d1-004a64ea2bb6" />
+<img width="379" height="398" alt="Controle de OP&#39;s" src="https://github.com/user-attachments/assets/4c7c19fe-4055-46ff-8411-a2bbe57ef59d" />
+
 
 
 ### Ordens pendentes
-<img width="455" height="352" alt="Lista de ordens pendentes" src="https://github.com/user-attachments/assets/1755816f-e327-4025-abb7-115a8e039644" />
+<img width="455" height="352" alt="Lista de ordens pendentes" src="https://github.com/user-attachments/assets/ebb9fa3c-8938-4ad6-8ad0-f7ccc44fef69" />
+
 
 
 ### Painel de balanço de massa
-<img width="710" height="398" alt="Painel de balanço de massa" src="https://github.com/user-attachments/assets/4f62940c-4a4e-4cac-b18e-c347be592f1b" />
+<img width="710" height="398" alt="Painel de balanço de massa" src="https://github.com/user-attachments/assets/98451741-b4a8-4548-a7cc-584b2fcd6538" />
+
 
 
 ### Ordens encerradas
-<img width="635" height="393" alt="indicadores de encerramento de ordens" src="https://github.com/user-attachments/assets/42d88415-36d9-4a5e-8ad2-2b42b6a5db85" />
+<img width="635" height="393" alt="indicadores de encerramento de ordens" src="https://github.com/user-attachments/assets/e9cab279-4461-46aa-b120-98aab53f2ff1" />
+
 
 
 ---
